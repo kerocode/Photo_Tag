@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\kero\Documents\GitHub\greenplatypus-app_project_355\PhotoTag1\app\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-intents\2.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="41a6f45fc287003d7409ef40a8806e6821c4fe57">
+        <dex dex="C:\Users\kero\Documents\GitHub\greenplatypus-app_project_355\PhotoTag1\app\build\intermediates\pre-dexed\androidTest\debug\classes-9e499b4160bf6d86b81b3d354e5e443d2563fccf.jar" />
+    </item>
+
+</items>

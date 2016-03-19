@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PhotoTag1</string>
+
+    <string name="cannot">Cannot</string>
+    <string name="album_name">CameraSample</string>
+    <string name="play">PLAY</string>
+    <string name="connect">CONNECT</string>
+    <string name="takeSlefie">Selfie image</string>
+    <string name="btnIntend">Tap to Take Selfie</string>
+    <string name="title_activity_take_selfie">TakeSelfie</string>
+    <string name="select">Select</string>
+    <string name="reselect">Reselect</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
